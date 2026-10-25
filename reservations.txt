@@ -1,0 +1,3 @@
+RAILWAY RESERVATIONS
+====================
+Ticket ID: 2, Passenger: Kunduru Bharath Reddy, Age: 20, Train ID: 104, Date: 2026-11-10, Route: Warangal to Hyderabad
